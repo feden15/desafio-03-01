@@ -7,3 +7,23 @@
 #color-fondo {
     background-color: rgb(39,50,56);
 }
+
+#titulo {
+    background-color: white;
+    font-family: Impact, Charcoal, sans-serif;
+    color: rgb(105,133,147);
+    text-align: center;
+}
+
+.subtitulo {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(203, 194, 181);
+}
+
+.parrafo {
+    color: aliceblue;
+    font-family: Arial, Gadget, sans-serif;
+    text-align: justify;
+}
