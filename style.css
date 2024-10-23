@@ -15,15 +15,86 @@
     text-align: center;
 }
 
+.parrafo {
+    color: rgb(192, 184, 163);
+    font-family: Arial, Gadget, sans-serif;
+    text-align: justify;
+}
+
 .subtitulo {
-    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
-    font-weight: bold;
+    font-family: 'Lucida Grande', sans-serif;
+    font-weight: bolder;
     font-style: italic;
+    font-size: xx-large;
+    /* color: rgb(203, 194, 181); */
+}
+
+#subtitulo-aspiradora {
+    font-family: 'Lucida Grande', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
     color: rgb(203, 194, 181);
 }
 
-.parrafo {
-    color: aliceblue;
-    font-family: Arial, Gadget, sans-serif;
-    text-align: justify;
+#img-aspiradora {
+    margin-left: 35px;
+    border: 4px solid;
+    border-color: rgb(203, 194, 181);
+}
+
+#subtitulo-celular {
+    font-family: 'Lucida Grande', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(161, 193, 203);
+}
+
+#img-celular {
+    margin-left: 35px;
+    border: 4px solid;
+    border-color: rgb(161, 193, 203);
+}
+
+#subtitulo-consola {
+    font-family: 'Lucida Grande', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(188, 189, 191);
+}
+
+#img-consola {
+    margin-left: 35px;
+    border: 4px solid;
+    border-color: rgb(188, 189, 191);
+}
+
+#subtitulo-home {
+    font-family: 'Lucida Grande', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(141, 148, 161);
+}
+
+#img-home {
+    margin-left: 35px;
+    border: 4px solid;
+    border-color: rgb(141, 148, 161);
+}
+
+#subtitulo-tele {
+    font-family: 'Lucida Grande', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+    color: rgb(177, 175, 162);
+}
+
+#img-tele {
+    margin-left: 35px;
+    border: 4px solid;
+    border-color: rgb(177, 175, 162);
 }
