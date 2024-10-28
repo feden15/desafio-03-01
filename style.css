@@ -1,7 +1,7 @@
 /*
 - 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
 - Impact, Charcoal, sans-serif
-- Arial, Gadget, sans-serif 
+- Arial, Gadget, sans-serif
 */
 
 #color-fondo {
@@ -18,16 +18,16 @@ h1 {
 
 h2 {
     font-family: Impact, Charcoal, sans-serif;
-    font-style: italic;
+    font-style: oblique;
     font-size: 40px;
     font-variant: small-caps;
-    font-weight: normal;
+    font-weight: 600;
     margin-bottom: 15px;
     margin-top: 15px;
+    letter-spacing: 1px;
 }
 
 p {
-    /* color: rgb(192, 184, 163); */
     color: rgb(255, 244, 228);
     font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
     text-align: justify;
